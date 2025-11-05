@@ -1,4 +1,4 @@
-package com.dukkan.customer.customer_service;
+package com.dukan.customer.customer_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
